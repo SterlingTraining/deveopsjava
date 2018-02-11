@@ -3,6 +3,9 @@
 		<msg>test message</msg>
 	</note>
 	<note id="2">
+		<msg>Hello Everyone</msg>
+	</note>
+	<note id="3">
 		<msg>Hi Nick!!!!</msg>
 	</note>
 </notes>
