@@ -1,0 +1,20 @@
+<departments>
+
+	<department>
+			<name>Accounts</name>
+			<id>3674</id>
+	</department>
+	<department>
+			<name>HR</name>
+			<id>2</id>
+	</department>
+	<department>
+			<name>IT</name>
+			<id>3</id>
+	</department>
+	<department>
+			<name>SECURITY</name>
+			<id>3676</id>
+	</department>
+
+</departments>
