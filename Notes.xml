@@ -2,4 +2,7 @@
 	<note id="1">
 		<msg>test message</msg>
 	</note>
+	<note id="2">
+		<msg>Hi Nick!!!!</msg>
+	</note>
 </notes>
